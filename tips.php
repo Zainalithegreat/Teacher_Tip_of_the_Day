@@ -1,7 +1,7 @@
 <?php
 
 $tips = [
-    ["Provide help willingly", 705, 22, 8],
+    ["Provide help willingly", 700, 22, 8],
     ["Listen attentively to student questions", 704, 18, 13],
     ["Treat students equally and fairly", 695, 33, 7],
     ["Offer words of encouragement", 694, 27, 14],
